@@ -1,4 +1,3 @@
-```markdown
 # Course: Intelligent Document Extraction with OpenAI GPT & LangChain
 
 In this hands-on course, you will learn how to build a fully automated Document AI System that uses:
@@ -24,11 +23,12 @@ Official documentations of Poetry: <https://python-poetry.org/docs/>
 
 1. Install Poetry (recommended official installer):
 
-   **Linux / macOS:**
+**Linux / macOS:**
    ```
    curl -sSL https://install.python-poetry.org | python3 -
    ```
-   **Windows (PowerShell):**
+
+**Windows (PowerShell):**
    ```
    (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
    ```
@@ -58,7 +58,7 @@ Basic Usage: <https://python-poetry.org/docs/basic-usage/>
    ```
    poetry install
    ```
-   This will create a virtual environment and install all required packages. [web:10][web:15]
+   This will create a virtual environment and install all required packages.
 
 4. To activate the virtual environment:
    ```
@@ -73,7 +73,7 @@ Official Documentation: <https://www.mongodb.com/docs/languages/python/pymongo-d
 
 1. Add the official MongoDB Python driver (PyMongo) using Poetry:
    ```
-   poetry add pymongo
+   poetry add pymongo[srv]
    ```
 
 2. Example connection string you will use in the code (to be configured later in `.env`):
@@ -100,7 +100,7 @@ FastAPI is used to expose the Document AI pipeline as a web API/web app.
 
 ### Langchain required libraries
 
-LangChain is used to build the multi-step intelligent workflows (OCR → LLM → validation → DB). [web:13]
+LangChain is used to build the multi-step intelligent workflows (OCR → LLM → validation → DB).
 
 1. Add core LangChain + OpenAI integration and environment helper:
    ```
@@ -111,7 +111,7 @@ LangChain is used to build the multi-step intelligent workflows (OCR → LLM →
    ```
    OPENAI_API_KEY=your_openai_api_key_here
    ```
-   Then load it in code using `python-dotenv` (already added above). [web:26]
+   Then load it in code using `python-dotenv` (already added above).
 
 
 ## Project Details
