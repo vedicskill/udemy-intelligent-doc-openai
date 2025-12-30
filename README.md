@@ -8,6 +8,12 @@ In this hands-on course, you will learn how to build a fully automated Document 
 - MongoDB as a Database (Atlas)
 - FastAPI for WebApp and API endpoint
 
+## Pre-requisite
+
+- It is assumed that you already have at least a beginner-level understanding of Python.
+- If you are new to Python or do not have it installed yet
+> please go through this video series first: https://www.youtube.com/playlist?list=PLC3dwsznxb3JkzJbR9aiFr557aB3CBqTS
+​
 
 ## Setting Up Couse:
 - Download or clone the folder structure from  
