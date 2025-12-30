@@ -11,7 +11,7 @@ In this hands-on course, you will learn how to build a fully automated Document 
 
 ## Setting Up Couse:
 - Download or clone the folder structure from  
-  GitHub: `https://github.com/<your-org>/<your-repo-name>` (replace with the actual course repo URL when available).
+  GitHub: <https://github.com/vedicskill/udemy-intelligent-doc-openai>.
 
 - Open a terminal in the project root folder and carefully install the dependencies as described below using Poetry.
 
@@ -19,16 +19,16 @@ In this hands-on course, you will learn how to build a fully automated Document 
 ### Install Poetry Dependency Library
 
 Poetry is used as the dependency manager and virtual environment tool for this course.
-Official documentations of Poetry: <https://python-poetry.org/docs/>
+> Official documentations of Poetry: <https://python-poetry.org/docs/>
 
 1. Install Poetry (recommended official installer):
 
-**Linux / macOS:**
+> **Linux / macOS:**
    ```
    curl -sSL https://install.python-poetry.org | python3 -
    ```
 
-**Windows (PowerShell):**
+>**Windows (PowerShell):**
    ```
    (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
    ```
@@ -69,7 +69,7 @@ Basic Usage: <https://python-poetry.org/docs/basic-usage/>
 ### MongoDB required libraries
 
 This course uses MongoDB (e.g., MongoDB Atlas) for storing extracted document data.
-Official Documentation: <https://www.mongodb.com/docs/languages/python/pymongo-driver/current/>
+> Official Documentation: <https://www.mongodb.com/docs/languages/python/pymongo-driver/current/>
 
 1. Add the official MongoDB Python driver (PyMongo) using Poetry:
    ```
