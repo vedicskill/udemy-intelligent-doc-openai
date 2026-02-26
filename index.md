@@ -1,7 +1,10 @@
-# Intelligent Document Processing with OpenAI GPT & LangChain
+---
+layout: home
+title: Intelligent Document Extraction with OpenAI GPT & LangChain
+---
 
-Welcome to the official course documentation portal of [Vedicskill EduTech](https://vedicskill.com)
-Udemy: [course url](https://www.udemy.com/course/intelligent-document-processing-with-openai-gpt-langchain/?referralCode=BF6564A9B3D71875F3E7)
+Welcome to the official course documentation portal.
+
 ---
 
 ## 📘 Course Sections
@@ -23,4 +26,4 @@ Udemy: [course url](https://www.udemy.com/course/intelligent-document-processing
 
 ---
 
-© 2026 Intelligent Document Processing with OpenAI & LangChain | vedicskill.com
+For complete setup instructions, refer to the README.
