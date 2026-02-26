@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Intelligent Document Processing
-
-### OpenAI GPT + LangChain + FastAPI + MongoDB
+# Welcome to Course "Intelligent Document Processing 
 
 ---
 
