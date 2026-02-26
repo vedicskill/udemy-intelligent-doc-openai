@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to Course "Intelligent Document Processing 
+# Intelligent Document Processing with OpenAI & LangChain
 
 ---
 
