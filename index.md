@@ -1,41 +1,26 @@
-# Intelligent Document Parser with OpenAI
+# Intelligent Document Processing with OpenAI GPT & LangChain
 
-Welcome to the official documentation portal.
-
+Welcome to the official course documentation portal of [Vedicskill EduTech](https://vedicskill.com)
+Udemy: [course url](https://www.udemy.com/course/intelligent-document-processing-with-openai-gpt-langchain/?referralCode=BF6564A9B3D71875F3E7)
 ---
 
-## 📘 Setup
+## 📘 Course Sections
 
 - [Environment Setup](1_setup_env/README.md)
-
-## 🍃 MongoDB
-
 - [MongoDB Guide](2_mongodb/README.md)
-
-## 🚀 FastAPI
-
 - [FastAPI Tutorial](3_fastapi/README.md)
-
-## 🤖 LangChain + OpenAI
-
-- [LangChain Guide](4_langchain_openai/README.md)
-
-## 📄 Document AI
-
-- [Document AI Theory](5_document_ai/README.md)
-
-## 🖥️ Full Application
-
-- [Document AI App](6_document_ai_app/README.md)
+- [LangChain + OpenAI](4_langchain_openai/README.md)
 
 ---
 
-# 📚 PDFs
-
-## Core PDFs
+## 📚 Download PDFs
 
 - [About Course](pdf/about-course.pdf)
-- [FastAPI PDF](pdf/fastapi/FastAPI.pdf)
-- [LangChain PDF](pdf/langchain/LangChain.pdf)
-- [Pydantic PDF](pdf/pydantic/Pydantic.pdf)
-- [Project PDF](pdf/project/Project.pdf)
+- [FastAPI Notes](pdf/fastapi/FastAPI.pdf)
+- [LangChain Notes](pdf/langchain/LangChain.pdf)
+- [MongoDB Commands](pdf/mongodb/3-MongoDB Commands.pdf)
+- [Project Guide](pdf/project/Project.pdf)
+
+---
+
+© 2026 Intelligent Document Processing with OpenAI & LangChain | vedicskill.com
