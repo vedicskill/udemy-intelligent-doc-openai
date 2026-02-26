@@ -1,3 +1,4 @@
 theme: minima
 title: Intelligent Document Processing with OpenAI GPT & LangChain
 description: Build a production-ready AI document extraction system using OpenAI, LangChain, FastAPI, Pydantic, MongoDB and Python
+show_downloads: false

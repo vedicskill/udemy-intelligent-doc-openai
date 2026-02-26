@@ -121,7 +121,7 @@ LangChain is used to build the multi-step intelligent workflows (OCR → LLM →
 
 
 ## Project Details
-Course URL: `https://your-course-platform.com/your-course-slug`  
+Course URL: `https://www.udemy.com/course/intelligent-document-processing-with-openai-gpt-langchain/?referralCode=BF6564A9B3D71875F3E7`  
 (Replace with the final course link once published.)
 
 You will build real projects such as:
@@ -153,4 +153,4 @@ Technologies Used
 - LangChain and langchain-openai for model orchestration 
 - FastAPI for backend APIs and web entrypoints 
 - MongoDB (Atlas or local) to persist document data 
-- Poetry for dependency management and reproducible environments 
+- Poetry for dependency management and reproducible environments
