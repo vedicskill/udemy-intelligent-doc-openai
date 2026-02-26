@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: intelligent document processing with openai & langchain
 description: Build a production-ready AI document extraction system using OpenAI, LangChain, FastAPI, Pydantic, MongoDB and Python
 
