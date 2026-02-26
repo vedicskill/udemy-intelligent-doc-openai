@@ -1,5 +1,5 @@
-theme: minima
-title: vedicskill.com
+theme: jekyll-theme-cayman
+title: intelligent document processing with openai & langchain
 description: Build a production-ready AI document extraction system using OpenAI, LangChain, FastAPI, Pydantic, MongoDB and Python
 
 header_pages:
@@ -7,4 +7,4 @@ header_pages:
   - 1_setup_env/index.md
   - 2_mongodb/index.md
   - 3_fastapi/index.md
-  - 4_langchain_open/index.md
+  - 4_langchain_/index.md
