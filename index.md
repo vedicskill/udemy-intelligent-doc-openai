@@ -31,8 +31,8 @@ In this course you will learn:
 
 ## 📚 Course Resources
 
-- [About Course](pdf/about-course.pdf)
-- [FastAPI Notes](pdf/fastapi/FastAPI.pdf)
-- [LangChain Notes](pdf/langchain/LangChain.pdf)
-- [MongoDB Commands](pdf/mongodb/3-MongoDB%20Commands.pdf)
-- [Project Guide](pdf/project/Project.pdf)
+- [About Course](docs/about-course.pdf)
+- [FastAPI Notes](docs/fastapi/FastAPI.pdf)
+- [LangChain Notes](docs/langchain/LangChain.pdf)
+- [MongoDB Commands](docs/mongodb/3-MongoDB%20Commands.pdf)
+- [Project Guide](docs/project/Project.pdf)
