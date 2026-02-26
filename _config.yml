@@ -1,5 +1,5 @@
 theme: minima
-title: Vedicskill
+title: vedicskill.com
 description: Build a production-ready AI document extraction system using OpenAI, LangChain, FastAPI, Pydantic, MongoDB and Python
 
 header_pages:

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intelligent Document Extraction with OpenAI GPT & LangChain
+title: Notes
 ---
 
 Welcome to the official course documentation portal.
