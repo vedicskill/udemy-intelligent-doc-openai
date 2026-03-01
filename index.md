@@ -83,4 +83,4 @@ Take your AI skills to the next level and build a production-ready Intelligent D
 
 ---
 
-**Vedicskill Edu Tech Company | Data Science Anywhere**
+Vedicskill Edu Tech Company @ Data Science Anywhere
