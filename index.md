@@ -72,7 +72,7 @@ Develop a Document AI solution that extracts structured invoice information such
 
 ### Stage 7: Full Web Application Deployment  
 Build a complete end-to-end FastAPI web application by integrating database, APIs, and LLM-based document intelligence.
-- [Intelligent Document Processing App](https://www.dailymotion.com/video/x9v3jxu)
+- [Intelligent Document Processing App](https://app-document-ai.onrender.com/)
 ---
 
 ## 🎓 Enroll Now
@@ -84,3 +84,4 @@ Take your AI skills to the next level and build a production-ready Intelligent D
 ---
 
 Vedicskill Edu Tech Company @ Data Science Anywhere
+u
