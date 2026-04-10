@@ -327,24 +327,3 @@ You now have:
 * ✅ Production-ready setup
 
 ---
-
-## 📌 Next Steps
-
-* Add database (PostgreSQL / MongoDB)
-* Deploy ML models
-* Add frontend (React / Streamlit)
-* Scale using Kubernetes
-
----
-
-💡 This setup is ideal for:
-
-* Student projects
-* AI/ML apps
-* APIs and microservices
-* Production-ready deployments
-
-```
-
----
-```
