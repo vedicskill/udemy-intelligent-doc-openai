@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Deploy Web Application  
 ### FastAPI + Poetry + Docker + Render (Complete Guide)
 
@@ -21,8 +20,7 @@ This guide walks you through deploying a **FastAPI web application** using:
 Make sure your project looks like this:
 
 ```
-
-project-root/
+6_document_ai_app/
 │
 ├── main.py
 ├── pyproject.toml
@@ -30,8 +28,7 @@ project-root/
 ├── Dockerfile
 ├── .dockerignore
 └── README.md
-
-````
+```
 
 ---
 
