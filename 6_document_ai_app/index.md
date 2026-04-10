@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Deploy Web Application  
 ### FastAPI + Poetry + Docker + Render (Complete Guide)
 
